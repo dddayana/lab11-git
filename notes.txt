@@ -4,3 +4,4 @@ Remember to go to the gym three times a week.
 Ideas: cancel the magazine.
 line 1
 line 2
+line 3
