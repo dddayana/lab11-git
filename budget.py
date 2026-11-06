@@ -1,6 +1,6 @@
 MONTHLY_INCOME = 1850.00
 RENT = 780.00
-DAYS_IN_MONTH = 31
+DAYS_IN_MONTH = 28
 SAVINGS_RATE = 0.10
 
 def remaining_after_rent(income: float, rent: float) -> float:
